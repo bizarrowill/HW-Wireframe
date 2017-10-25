@@ -1,0 +1,47 @@
+
+/**
+ * wireframe homework
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+}
+
+header {
+  padding: 90%;
+  margin-bottom: 20px;
+  color: #ebebeb;
+  background: #777;
+}
+
+section {
+	padding: 90%; 
+	margin-bottom: 20 px;
+	color: #ebebeb;
+	background: #777;
+}
+
+#left {float:left;width:33%;
+}
+
+#middle {width:33%px;
+}
+
+#right {float:right:width:33%;
+}
+
+#full {
+}
+
+#division {
+}
+
+aside {
+}
+
+footer {
+}
