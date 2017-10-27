@@ -1,46 +1,74 @@
-
-/**
- * wireframe homework
- **/
-
-* {
-  box-sizing: border-box;
-  text-align: center;
-}
-
 body {
+	background-color: #777;
+	color: #777;
+	text-align: center;
+	margin: 0;
+	padding: 0;
 }
 
-header {
-  padding: 90%;
-  margin-bottom: 20px;
-  color: #ebebeb;
-  background: #777;
+.container {
+	width: 1024px;
+	background-color: #777;
 }
 
-section {
-	padding: 90%; 
-	margin-bottom: 20 px;
+.main {
+	width : 960px;
+	padding: 20px;
+	margin: 5px;
+	color: #777;
+	background: #ebebeb;
+}
+
+#section {
+	width :495px;
+	padding: 20px;
+	margin: 5px;
+	float: left;
+	color: #777;
+	background: #ebebeb;
+}
+
+#article {
+	width : 95%;
+	padding: 10px;
 	color: #ebebeb;
 	background: #777;
 }
 
-#left {float:left;width:33%;
+#h {
+	width : 400px;
+	padding: 10px;
+	margin: 5px;
+	color: #777;
+	background: #ebebeb;
+
 }
 
-#middle {width:33%px;
+#p {
+	width : 400px;
+	padding: 10px;
+	margin: 5px;
+	color: #777;
+	background: #ebebeb;
+
 }
 
-#right {float:right:width:33%;
+
+#aside {
+	width : 415px;
+	height: 147px;
+	padding: 20px;
+	margin: 5px;
+	float: left;
+	padding: 20px;
+	color: #777;
+	background: #ebebeb;
 }
 
-#full {
+footer {
+	clear:both;
 }
 
-#division {
-}
 
-aside {
-}
 
 
